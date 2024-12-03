@@ -1,0 +1,9 @@
+.places__header {
+    align-self: end;
+}
+
+@media screen and (max-width: 767px) {
+    .places__header {
+        padding-left: 16px;
+    }
+}
